@@ -1,0 +1,1 @@
+import {DatabaseSync} from 'better-sqlite3';

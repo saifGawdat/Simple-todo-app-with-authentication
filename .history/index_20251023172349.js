@@ -1,0 +1,2 @@
+function getAge(inputString){
+}

@@ -1,0 +1,2 @@
+// return masked string
+function maskify(cc) {}

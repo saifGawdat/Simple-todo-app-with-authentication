@@ -1,0 +1,6 @@
+// return masked string
+function maskify(cc) {
+    var length = cc.length ;
+    var mask = cc.map((e) => e.replace(e[length - 4] , "#") )
+    mask
+}

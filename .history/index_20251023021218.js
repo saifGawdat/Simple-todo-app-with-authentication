@@ -1,0 +1,2 @@
+const array = [ 1 ,-4 , 7 , 12];
+for ()
